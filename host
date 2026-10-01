@@ -1,0 +1,110 @@
+# Title: Custom Hosts — FreeFire MAX Block
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 01 October 2026 00:00:00 (UTC)
+# Number of unique domains: 50
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/hoangvip01/hoar/refs/heads/main/host.txt
+# Project home page: https://github.com/hoangvip01/hoar
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start block list
+
+#=====================================
+# Title: Hosts contributed by hoangvip01
+# https://github.com/hoangvip01
+
+
+##################################################################################
+#                                                                                #
+#   Custom Block List — Free Fire MAX / Garena / Ads / Tracking                 #
+#                                                                                #
+##################################################################################
+
+
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included.
+
+# Use this file to prevent your device from connecting to selected
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, adware, malware, and telemetry.
+
+# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
+
+# Free Fire / Garena — anti-cheat & telemetry
+0.0.0.0 na-gin.freefiremobile.com
+0.0.0.0 gin.freefiremobile.com
+0.0.0.0 gamesecurity.us.freefiremobile.com
+0.0.0.0 gamesecuity.us.freefiremobile.com
+0.0.0.0 hotro.ff.garena.vn
+0.0.0.0 ff.garena.com
+0.0.0.0 garena.com
+0.0.0.0 garena.co.id
+0.0.0.0 garenanow.com
+0.0.0.0 ff.dr.grtcgarenanow.com
+0.0.0.0 gin.freefeirenid.in
+0.0.0.0 dl.listdl.com
+0.0.0.0 com.dts.freefiremax
+0.0.0.0 com.dts.freefiremax-game_func_rec
+0.0.0.0 com.dts.freefireth
+0.0.0.0 com.dts.freefireth-game_func_rec
+
+# Free Fire MAX — từ NetGuard log
+0.0.0.0 csoversea.stronghold.freefiremobile.com
+0.0.0.0 dl.aw.freefiremobile.com
+0.0.0.0 dl.castle.freefiremobile.com
+0.0.0.0 dl.cdn.freefiremobile.com
+0.0.0.0 ff.dr.grtc.garenanow.com
+0.0.0.0 ff.sdk.grtc.garenanow.com
+
+# AppsFlyer SDK
+0.0.0.0 appsflyer.com
+0.0.0.0 rslw0r.inapps.appsflyersdk.com
+0.0.0.0 rslw0r.launches.appsflyersdk.com
+
+# Firebase / Crashlytics
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+
+# Facebook / Meta
+0.0.0.0 graph.facebook.com
+0.0.0.0 genai-graph.facebook.com
+0.0.0.0 connect.facebook.net
+
+# Ads / Tracking
+0.0.0.0 doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 analytics.google.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
+
+# ===============================================================
+# End of file

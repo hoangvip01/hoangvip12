@@ -4,7 +4,7 @@
 # with a dash of crowd sourcing via GitHub
 #
 # Date: 01 October 2026 00:00:00 (UTC)
-# Number of unique domains: 50
+# Number of unique domains: 61
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/hoangvip01/hoar/refs/heads/main/host.txt
 # Project home page: https://github.com/hoangvip01/hoar
@@ -39,7 +39,7 @@ ff02::3 ip6-allhosts
 
 ##################################################################################
 #                                                                                #
-#   Custom Block List — Free Fire MAX / Garena / Ads / Tracking                 #
+#   Custom Block List — Free Fire MAX / Garena / Ads / Tracking / Play Store    #
 #                                                                                #
 ##################################################################################
 
@@ -103,6 +103,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+
+# Google Play Store
+0.0.0.0 play.googleapis.com
+0.0.0.0 play-fe.googleapis.com
+0.0.0.0 android.googleapis.com
+0.0.0.0 vending.l.google.com
+0.0.0.0 market.android.com
+0.0.0.0 android.l.google.com
+0.0.0.0 androidapp.l.google.com
+
+# Google Play Services
+0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 digitalassetlinks.googleapis.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 mtalk.google.com
 
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 
